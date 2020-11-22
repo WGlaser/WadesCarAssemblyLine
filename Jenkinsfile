@@ -1,3 +1,5 @@
+//tutorial from: https://coralogix.com/log-analytics-blog/easily-build-jenkins-pipelines-tutorial-with-parameters/
+
 pipeline{
     agent any
     
